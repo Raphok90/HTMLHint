@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> IFE OLUWA BATIST CHURCH </title>
+<body background="C:\Users\user\Desktop\HTML CODING\local bridg.JPG" width="50%" height="200%" text="color:green">
+<bgsound src="C:\Users\user\Desktop\HTML CODING\first sound.mp3">
+		</bgsound>
+		<base href=="C:\Users\user\Desktop\HTML CODING\CLBC 1/" />
+	<meta http-equiv="refresh" content="">
+	<style type="text/css"> 
+	a,
+	a:hover,
+	a:focus,
+	a:active,
+	a,visited{
+		color:"";
+		text-decoration: none;
+	}
+	</style>
+<table width="100%" >
+<tr>
+<td width="20%" height="100" valign="top">
+<image src="C:\Users\user\Desktop\HTML CODING\FOR CLBC 1.jpg" width="200" height="100" align=" left">
+<td width="60%" height="100" colspan="3" valign="center"> <h1 style="color:purple" bgcolor="black"> IFE OLUWA BAPTIST CHURCH </h1>
+<!-- MY FIRST DIV FOR MENU STARTS FROM HERE !-->
+<div id="menu" align="left" style="boarder:2px">
+<a href="C:\Users\user\Desktop\HTML CODING\FINAL CLBC WEB.html"><font color="">HOME </a> |
+<a href="........"><font color="">GALLERY </a> | 
+<a href="........"><font color="">MESSAGES</a>  |
+<a href="........"><font color="">COMING EVENTS</a> |
+<a href="........"> <font color="">STAFF AND OFFICERS </a> |
+<a href="........"><font color="">MENU</a>
+</div>
+<!-- MY FIRST DIV FOR MENU ENDS HERE !-->
+<marquee direction="right" scolldelay="20" bgcolor=""><font color="yellow"> A.k.a: This is Christ solution Assembly </marquee>
+</table>
+<center>
+<table  background="C:\Users\user\Desktop\HTML CODING\local bridg.JPG"width="100%" height="600">
+<tr> 
+<td colspan="3" > 
+<style>
+h1
+	{
+-moz-animation-duration:30s;
+-webkit-animation-duration:20s;
+-moz-animation-name:slidein;
+-webkit-animation-name:slidein;
+}
+@-moz-keyframes slidein {
+from {
+margin-left:100%;
+width:300%;
+}
+to {
+margin-left:0%;
+width:100%;
+}
+}
+@-webkit-keyframes slidein {
+from {
+margin-left:100%;
+width:300%;
+color:red;
+font-size:500%;
+}
+to {
+margin-left:0%;
+width:100%;
+color:PURPLE;
+
+}
+}
+</style>
+<hr />
+	<tr> 
+	<td  bgcolor="navyblue" width="20%" valign="top">
+	<center>
+	<font size="5" color="PURPLE"> <b>DEPARTMENT</b> </font> <br>
+	<font color="green"> <i>Select your department and learn more </i> </font> <br>
+	<font size="4" color="PURPLE">
+	<a href="/C:\Users\user\Desktop\HTML CODING\CLBC WEB 2.html"> HOME </a> <br>
+	<a href="/C:\Users\user\Desktop\HTML CODING\MMU MAIN.html"> MMU </a> <br>
+	<a href="/C:\Users\user\Desktop\HTML CODING\WMU WEB.html" align="right">WMU </a> <br />
+	<a href="/C:\Users\user\Desktop\HTML CODING\RA CLBC.html" align="right"> ROYAL AMBASSADOR </a> <br>
+	<a href="/C:\Users\user\Desktop\HTML CODING\G.A.html" align="right"> GIRLS AUXILIARY </a> <br/>
+	<a href="/C:\Users\user\Desktop\HTML CODING\LYDIA AUXILIARY.html" align="right"> LYDIA AUXILIARY </a> <br/>
+	<a href="......."> SUNBEAM  </a><br>
+	<a href="......."> SCHOOLS OF MINISTRY </a> <br> </font>
+	</center>
+	</td> 
+	
+	<td bgcolor="gray" width="60%" height="200" valign="top">
+	<b><font size="5" color="PURPLE"> <center>ABOUT THE CHURCH </center></b> </font> <br>
+	<font size="4" color="PURPLE">Christ Land Baptist Church <br>
+	Christ solution assembly <br> </font>
+	<center> 
+
+	<a href="/C:\Users\user\Desktop\HTML CODING\BE A THINKER.html">  CHURCH HISTORY  </a> ||
+	<a href="/C:\Users\user\Desktop\HTML CODING\DEACONS CONTACT.html" > DEACONS CONTACT </center> </a> <br>
+
+	<div class="slideshow">
+	<marquee scrolldelay="10" behaviour="scroll" direction="right" scrollamount="" align="center" bgcolor="" height="50%"> <font color="yellow" size="3"> WE LOVE JESUS,SEE PICTURES OF THE WEEK </font> </marquee>
+	<marquee direction="left" scrolldelay="10" vspace="5%">
+	<div class="slideshow">
+       <img src="C:\Users\user\Desktop\HTML CODING\ok.jpg" border=""  alt="Test image" width="150" height="100 />
+       <img src="C:\Users\user\Desktop\HTML CODING\ribon.jpg" width="150" height="100"/>
+	   <img src="C:\Users\user\Desktop\HTML CODING\ribon.jpg" style="opacity:" border=""  width="150" height="100"/>
+	   <img src="C:\Users\user\Desktop\HTML CODING\RA LOGO.jpg" border=""  width="150" height="100"/>
+	   <img src="C:\Users\user\Desktop\HTML CODING\flowercake.jpg"  border="" width="150" height="100"/>
+	   <img src="C:\Users\user\Desktop\HTML CODING\cube.jpg" border=""   width="150" height="100"/>
+	   <img src="C:\Users\user\Desktop\HTML CODING\image.jpg" border=""  width="150" height="100"/>
+	   <img src="C:\Users\user\Desktop\HTML CODING\FOR CLBC 1.jpg" border=""  width="150" height="100"/>
+	   <image src="C:\Users\user\Desktop\HTML CODING\MMU LOGOconverted.jpg" border="" width="200" height="100"">
+	   </marquee>
+	</div>
+	
+	</td>
+	<td bgcolor="navyblue" width="20" valign="top" >
+	<center>
+	<font size="5" color="PURPLE"><b>ANNOUNCEMENT </b> <br>
+	<a href="......."> Choir </a><br>
+	<a href="......."> Prayer </a><br>
+	<a href="......."> Ushering </a><br> 
+	<a href="......."> Welfare </a><br> 
+	<br />
+	<br />
+	<br  />
+	<br /> </font>
+		<font size="3" color="black"> 
+		<marquee scrolldelay="400" direction="up" height="70" behavior="alternate" ><a href=".......">Souls Melting Testimony </a> <br />
+		<a href=".......">Heart breaking testimony </a> </marquee></font>
+	</center>
+	</td>
+		</tr>
+
+	<tr>
+	<td valign="center" colspan="2"> <font size="6" color="black" > <b> 
+	NOBE: If you need any information about any of the DEPARTMENT in the Church among those listed bellow, pease select </font></b> <br>
+	<font color="black" size="6"><ul type="disc">
+	<li> Prayer </li>
+	<li> Usher </li>
+	<li> Royal Ambassadors </li>
+	<li> Lydia Auxiliary </li>
+	<li> Baptist Student Fellowship </li>
+	</ul> </font>
+	<a href="/C:\Users\user\Desktop\HTML CODING\sample.pdf" align="right"> DOWNLOAD LATEST INFO. </a>
+	</td>
+	<td valign="buttom"> Login to chat other members <br />
+	<form>
+	
+	<input type="username" name="username" id="username"> username </input>
+	<input type="password" name="textarea" id="password"> password </input>
+	<input type="submit" name="submit" value="submit">  or <a href="/C:\Users\user\Desktop\HTML CODING\CLBC REG. FORM.html">Register here </a>
+	</form>
+	</td>
+		</tr> 
+		
+</center>
+</td>
+</tr>
+<table>
+<p >
+<font color="black" > This is Christ Solution Assembly </font> </p>
+<marquee scrolldelay="10" behaviour="scroll" direction="left"> <a href="/C:\Users\user\Desktop\HTML CODING\BE A THINKER.html"> <img src="C:\Users\user\Desktop\HTML CODING\image.jpg" border="3"  width="150" height="100" usemap="image.jpg" /> <map name="image.jpg"><area shape="circle" href="/C:\Users\user\Desktop\HTML CODING\BE A THINKER.html" coords="centerx,centery,radius"/> </map> </marquee>
+<hr />
+<!-- footer starts from thisplace !-->
+<footer>  
+<table width="100%" height="3000%" bgcolor="gray" textcolor="white">
+<tr>
+<td valign="top" text="color:white" >
+<font size="2" color="white"><a href="......."><font color="black">  Contact: </a> <br>
+<a href="......."><font color="white"> Church phone Number </a> <br />
+<a href="......."> <font color="white">Secretary Phone Number </a> <br />
+<a href="......."> <font color="white">Heads of department Contact </a> <br />
+<a href="......."> <font color="white">Pastor's Phone Number</a>  <br />
+<a href="......."><font color="white"> Deacons Phone Numbers </a> <br />
+<a href="......."><font color="white"> Baptist World Alliance </a> <br />
+<a href="......."> <font color="white">Nigerian Baptist Convention </a> <br />
+<a href="......."> <font color="white">United Baptist Conference </a> <br />
+<a href="......."><font color="white"> Antioch Baptist Association <br />
+</font></td>
+<td valign="top"> <font size="2" color="white"><a href="......."><font color="black"> Knowing more about the Church... </a> <br />
+<a href="......."><font color="white"> The Sister Churches </a><br />
+<a href="......."><font color="white">The Mother Church </a><br />
+<a href="......."><font color="white">Daughter Church </a><br />
+<a href="......."><font color="white">History of the Church </a><br />
+</td>
+
+<td valign="top"> <font size="2" color="white"><a href="......."><font color="black"> Meet the Church on Social Media </a><br />
+<a href="......."><font color="white">Facebook </a> <br />
+<a href="......."><font color="white">Twitter </a><br />
+<a href="......."><font color="white">Linkedin </a> <br />
+<a href="......."><font color="white">Email</a> <br />
+<a href="......."><font color="white">Baptist World Alliance </a> <br />
+</font>
+</tr>
+	<tr>
+<td colspan="3" bgcolor="#b5dcb3">
+<center>
+<font color="black">Copyright © 2018 RaphOK </font>
+</center>
